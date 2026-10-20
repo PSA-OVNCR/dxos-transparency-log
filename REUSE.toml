@@ -1,0 +1,7 @@
+version = 1
+
+[[annotations]]
+path = ["**/*.md", "**/*.json", "**/.gitkeep"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 PSA_OVNCR"
+SPDX-License-Identifier = "Apache-2.0"
